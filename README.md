@@ -1,8 +1,8 @@
 # Especialização em Engenharia de Software: Universidade Estadual de Londrina
 
-Material das Aulas de Data Science aplicada a Engenharia de Software.
+Material das Aulas de Data Science aplicada à Engenharia de Software (2023).
 
-*Autor:* Saulo Martiello Mastelini.
+**Ministrante:** Saulo Martiello Mastelini.
 
 ## Tutorial de instalação
 
